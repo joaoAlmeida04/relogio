@@ -26,4 +26,4 @@ Este projeto consiste em um relógio digital que exibe horas, minutos e segundos
 
 ## Segue Link do Relógio Digital
 
-https://joaoalmeida04.github.io/relogio/
+- https://joaoalmeida04.github.io/relogio/
