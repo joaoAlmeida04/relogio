@@ -23,3 +23,7 @@ Este projeto consiste em um relógio digital que exibe horas, minutos e segundos
 - **CSS3**: Estilização e design responsivo
 - **JavaScript**: Lógica para atualização do relógio em tempo real
 
+
+## Segue Link do Relógio Digital
+
+https://joaoalmeida04.github.io/relogio/
